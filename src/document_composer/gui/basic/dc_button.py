@@ -1,4 +1,4 @@
-"""DocumentComposer向けボタンモジュール。"""
+"""document-composer向けボタンモジュール。"""
 import customtkinter as ctk
 
 from typing import Any, Tuple, Union, Optional, Callable

@@ -1,4 +1,4 @@
-"""DocumentComposer向けテキストボックスモジュール。"""
+"""document-composer向けテキストボックスモジュール。"""
 import customtkinter as ctk
 
 from typing import Any, Optional, Tuple, Union

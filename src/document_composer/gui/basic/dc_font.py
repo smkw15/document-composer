@@ -1,4 +1,4 @@
-"""DocumentComposer向けフォントモジュール。"""
+"""document-composer向けフォントモジュール。"""
 import customtkinter as ctk
 
 from document_composer.gui.constants import (

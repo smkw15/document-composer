@@ -1,4 +1,4 @@
-"""DocumentComposer向けフレームモジュール。"""
+"""document-composer向けフレームモジュール。"""
 import customtkinter as ctk
 
 from typing import Any

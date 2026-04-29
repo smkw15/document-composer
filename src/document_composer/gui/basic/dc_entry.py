@@ -1,4 +1,4 @@
-"""DocumentComposer向けエントリーモジュール。"""
+"""document-composer向けエントリーモジュール。"""
 import customtkinter as ctk
 
 from typing import Any, Optional, Tuple, Union

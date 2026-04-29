@@ -1,4 +1,4 @@
-"""DocumentComposer向けラベルモジュール。"""
+"""document-composer向けラベルモジュール。"""
 import tkinter as tk
 import customtkinter as ctk
 

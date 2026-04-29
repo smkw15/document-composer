@@ -1,4 +1,4 @@
-"""DocumentComposer向けチェックボックスモジュール。"""
+"""document-composer向けチェックボックスモジュール。"""
 import tkinter as tk
 import customtkinter as ctk
 
