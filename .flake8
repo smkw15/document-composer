@@ -1,7 +1,7 @@
 [flake8]
 ignore = D400,D415
 max-line-length = 160
-exclude = .git,__pycache__,docs,*md,.venv,src,__init__.py
+exclude = .git,__pycache__,docs,*md,.venv,__init__.py
 docstring-convention=google
 
 # D415: 文の末尾のピリオドの指定。日本人のコメントを想定しているので無視。
