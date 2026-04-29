@@ -312,4 +312,4 @@ uv run pip-licenses --format=plain-vertical --with-license-file --output-file LI
 | `--ignore-packages` | `document-composer` | 出力に含めないパッケージを指定します。`pip-licenses`は仕様で自身のライセンス情報を含めてしまうので、ここでは`document-composer`を除きます。 |
 | `--no-license-path` | `True` | ライセンス情報が記載されたファイルまでのパスを出力しないようにします。ローカル環境のディレクトリが公開されてしまうため、ここでは出力しない設定にしています。 |
 
-**注意: `pip-licenses`は情報の取得に失敗すると、`UNKNOWN`という文字列を出力します。出力後のLICENSE.txtに`UNKNOWN`が含まれている場合は、手動で穴埋めしてください。
+**注意: `pip-licenses`は情報の取得に失敗すると、`UNKNOWN`という文字列を出力します。出力後のLICENSE.txtに`UNKNOWN`が含まれている場合は、手動で穴埋めしてください。**
