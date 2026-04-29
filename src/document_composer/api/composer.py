@@ -210,7 +210,7 @@ def get_composable_type(ext: Extension) -> Type[Composable]:
         ext (Extension): ファイル種別。
 
     Returns:
-        Type[T]: Composableの型情報。
+        Type[Composable]: Composableの型情報。
     """
     match(ext):
         case "txt":
